@@ -6,7 +6,7 @@ This Test contains following Test cases
 3. Check customer login with Test data in Suite1.xls
 4. Check Hotel booking with Test data in Suite1.xls
 
-Run these test cases with a Suite Runner. Run the Test case only if Test Mode is Y in Suite1.xls. Create an HTML report for these Tests
+Run these test cases with a Suite Runner. Run the Test case only if Test Mode is Y in Suite1.xls. Create an HTML report for these Tests and save them in Reports folder of this Project
 
 This Project has following Packages
 
