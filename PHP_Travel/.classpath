@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/client-combined-3.11.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://seleniumhq.github.io/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/client-combined-3.11.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://seleniumhq.github.io/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/Selenium/jar/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/.p2/pool/plugins/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/Selenium/jar/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SJain/Desktop/jar/freemarker-2.3.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
