@@ -12,19 +12,21 @@ This Project has following Packages
 
 BaseClasses
 - BaseClass.java - 
-- ExtentManager.java - This is Base clase used to create HTML Reports
+- ExtentManager.java - This is Base class used to create HTML Reports
 
 config
-config.properties - It contains all selector. The name should contain _xpath, _name, _id,_css if the selector is xpath, name, id OR cssSelector respectively
-or.properties - Object Repository
-Suite1.xlsx - Test data for Test scenarios
+
+- config.properties - It contains all selector. The name should contain _xpath, _name, _id,_css if the selector is xpath, name, id OR cssSelector respectively
+- or.properties - Object Repository
+- Suite1.xlsx - Test data for Test scenarios
 
 datatable
-Xls_Reader.java - This is a base file used to read data from Excel Sheet
+- Xls_Reader.java - This file contains class for reading data from excel file
 
 Tests.Suite1
-findBrokenLinks.java
-HotelBooking_Test.java
-LoginTest.java
-MySuiteRunner.java
-Register_Test.java
+- findBrokenLinks.java   -  Check if there are any broken links on Hotel page
+- HotelBooking_Test.java   - Book a Hotel by reading data from excel file
+- LoginTest.java     -  Login to website using test data from excel sheet
+- Register_Test.java   - Register as new user using test data from excel sheet
+- MySuiteRunner.java    - Suite runner for running above test
+
